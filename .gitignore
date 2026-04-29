@@ -1,0 +1,10 @@
+# Angular (must)
+node_modules/
+.angular/
+dist/
+
+# Spring Boot (must)
+target/
+
+# Common
+*.log
